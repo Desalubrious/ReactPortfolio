@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Evan Mora",
+    "occupation": "Full Stack Engineer",
+    "description": "I'm a quick learner with an outgoing personality, looking to start my career in Full Stack Engineering",
+    "image": "profilepic.jpg",
+    "bio": "Denver born, but temporarily call Wyoming home. I am a details oriented thinker who loves to get things done. ",
+    "contactmessage": "Reach out to me, I would love to create something special with you.",
+    "email": "evanrmora@gmail.com",
+    "phone": "303-621-4628",
+    "address": {
+
+      "city": "Denver",
+      "state": "Colorado"
+    },
+    "website": "http://github.com/desalubrious",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1C6Kr8C1JvBFB54zcikM1LqN_31JGEozi",
+    "social": [
+    
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/evan-mora-59a330206/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/evanrmora",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/desalubrious",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University Of Denver",
+        "degree": "Full Stack Engineering",
+        "graduated": "July 2021",
+        "description": "Completed education in both front end and back end development"
+      },
+      {
+        "school": "Northglenn High School",
+        "degree": "Diploma",
+        "graduated": "May 2016",
+        "description": "Graduated as Outstanding Hispanic High School Student of The Year"
+      }
+    ],
+    "work": [
+      {
+        "company": "Coffey Engineering",
+        "title": "Surveyor ",
+        "years": "July 2021 - Present",
+        "description": "Work closely with engineers and the CAD department to create critical building layouts"
+      },
+      {
+        "company": "iLendingDirect",
+        "title": "Junior Applications Developer",
+        "years": "May 2017 - August 2019",
+        "description": "Created proprietary applications using multiple development languages, working in both the front and back end."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "C++, C#",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NHL Bracket Generator",
+        "category": "Create NHL Playoff Brackets",
+        "image": "nhl.jpeg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Chosen Outfit",
+        "category": "(MVP)Manage your closet, your way.",
+        "image": "closet.png",
+        "url": "https://github.com/Desalubrious/Project-3"
+      },
+      {
+        "title": "Employee Management Tools",
+        "category": "Built so a company could easily manage their employees.",
+        "image": "insomnia.png",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Online/Offline Budget Tracker",
+        "category": "Created a budget tool that works both online and offline to track travel spending.",
+        "image": "budget.png",
+        "url": "https://github.com/Desalubrious/Online-Offline-Budget"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The best developer I have ever seen",
+        "user": "My Mom"
+      }
+      
+    ]
+  }
+}
