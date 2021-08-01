@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+My objective was to create a react app for a professional portfolio. I initialized the react app and then implemented a resume style react app, and added functionality to download my resume, as well as contact me.
+
 # Live Deployment
 https://quiet-crag-47679.herokuapp.com/
 
