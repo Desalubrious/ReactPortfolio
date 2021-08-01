@@ -1,8 +1,40 @@
-# Getting Started with Create React App
+# React Portfolio
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Live Deployment
+https://quiet-crag-47679.herokuapp.com/
+
+# Acceptance Criteria
+
+```
+Satisfies all of the preceding acceptance criteria plus the following:
+
+
+Application must use React to render content.
+
+
+Application has a single Header component that appears on multiple pages, with a Navigation component within it that’s used to conditionally render About Me, Portfolio, Contact, and Resume sections.
+
+
+Application has a single Project component that’s used multiple times in the Portfolio section.
+
+
+Application has a single Footer component that appears on multiple pages.
+
+
+Application must be deployed to GitHub Pages.
+```
+
+
+
+
+
+
+
+
+
+## Usage
 
 In the project directory, you can run:
 
